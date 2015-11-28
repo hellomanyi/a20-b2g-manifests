@@ -2,7 +2,7 @@
 
   <include name="base-jb.xml"/>
 
-  <default remote="caf" revision="refs/tags/android-4.2.2_r1.2" sync-j="4"/>
+  <default remote="caf" revision="refs/tags/android-4.2.2_r1" sync-j="4"/>
 
   <!-- Nexus 4 specific things -->
   <project name="device-mako" path="device/lge/mako" remote="b2g"/>
